@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway|Titillium+Web|Oswald|Oxygen:400,700);
+
+body {
+	max-width: 95%;
+	margin: auto;
+	padding: 1%;
+}
+
+.page-wrap {
+	position: relative;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+#superstructure { 
+	background: url(../images/xmpp-large.png) no-repeat top left;
+	position: relative;
+	max-width: 100%; 
+	margin: 0 auto;
+	padding: 1%;
+	min-height: 566px;
+}
+ 
+#superstructure img { float: left; }
+
+#content { 
+	font-family: 'Oxygen', Courier, Verdana, Tahoma, Arial, sans-serif;
+	font-size: 90%;
+	line-height: 1.8;
+	padding-right: 4%;
+	margin-left: 425px; 
+	width: 62.5%;
+}
+ 
+#content h1 { 
+	border-bottom: 2px solid black; 
+	margin-bottom: 0; 
+	margin-top: 10px; 
+	font-family: 'Oswald', Tahoma, Arial, sans-serif;
+}
+
+#content p { margin: 0; }
+#content p.footer { border-top: 1px solid black; margin-top: 10px;}
+#content p.footer img { float: right; }
+
+/* a { color: black; text-decoration: none; } */
+a {
+	text-decoration: none;
+        color: black;
+        -o-transition:.5s;
+        -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition:.5s;
+}
+
+a.visited { color: black; }
+a { border-bottom: 1px black dotted; }
+a:hover { color: #0DC2FF; }
+
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	font-family: 'Titillium Web', Verdana, Arial, sans-serif;
+	font-size: 90%;
+	text-align: right;
+}
