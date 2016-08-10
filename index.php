@@ -45,6 +45,7 @@ echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
 	<li><strong>Server</strong> kode.im </li>
       	<li><strong>MUC</strong> muc.kode.im </li>
 	<li><strong>Tor</strong> ihkw7qy3tok45dun.onion </li>
+	<li><strong>Proxy</strong> proxy.kode.im </li>
 </ul>
 
 <h1>Security</h1>
