@@ -61,7 +61,7 @@ echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
 
 <h1>Contact</h1>
 <p><strong>j</strong> staff@kode.im </p>
-<p><strong>e</strong> contact@kode.email | <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x3000DBF96FAF8F4F" target="_blank">6FAF8F4F</a> </p>
+<p><strong>e</strong> contact@kode.email | <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x77491C017F300F7C" target="_blank">7F300F7C</a> </p>
 
 </div></div></div><br><br>
 
