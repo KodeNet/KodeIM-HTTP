@@ -10,6 +10,12 @@
 <link rel="icon" href="https://kode.im/favicon.ico?v=2"/>
 <link rel="stylesheet" href="css/style.css"/>
 
+<!-- Converse -->
+<link type="text/css" rel="stylesheet" media="screen" href="/converse/components/fontawesome/css/font-awesome.min.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/converse/css/converse.css" />
+<script src="/converse/dist/converse.js"></script>
+<!-- Converse -->
+
 </head>
 <body> 
 
@@ -90,5 +96,6 @@ kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://kod
 <img src="https://stats.koderoot.net/piwik.php?idsite=6&rec=1" style="border:0" alt="" />
 <!-- End Piwik -->
 
+<script src="converse/mainchat.js"></script>
 </body>
 </html>

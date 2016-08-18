@@ -56,7 +56,7 @@ a {
 
 a.visited { color: black; }
 a { border-bottom: 1px black dotted; }
-a:hover { color: #0DC2FF; }
+a:hover { color: #7FB4FD; }
 
 footer {
 	margin-left: auto;
