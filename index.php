@@ -24,7 +24,7 @@
 <div id="superstructure">
   <div id="content">
    <h1>About Kode IM</h1>
-   <p>Welcome to Kode IM! a free public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> running <a href="http://www.prosody.im" target="_blank">Prosody</a> with support for MUC (Multi-User Chat), Groups, Privacy Lists, Offline Storage, vCards, Compression, File Transfer capabilities and more. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
+   <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network running <a href="http://www.prosody.im" target="_blank">Prosody</a> with support for MUC (Multi-User Chat), Groups, Privacy Lists, Offline Storage, vCards, Compression, File Transfer capabilities and more. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
  
  <h1>Registration</h1>
    <p>In-band registration using a supported IM client (i.e. <a href="https://pidgin.im/" target="_blank">Pidgin</a>, <a href="https://adium.im/" target="_blank">Adium</a>)</p>
@@ -35,7 +35,7 @@
    <li><s>Currently beta as of June 27, 2015</s></li>
    <li><s>Pending SSL certificate for kode.im domain</s></li>
 <!-- <li> <a href="https://munin.koderoot.net/kodenet/kodenet/index.html#prosody">XMPP stats</a> powered by Munin </li> -->
-   <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
+   <li><strong>SHA1 Fingerprint</strong> 34:57:23:8F:2B:20:21:72:26:A9:FB:B9:D1:0B:C9:16:1B:A7:96:4D</li>
    <li id="uptime"><strong>Server Uptime</strong>
 <?php include "/srv/http/kodenet/uptime/upstat.php";  ?>
 <?php
@@ -44,8 +44,8 @@ $ut = linuxUptimez();
 echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
 ?></li>
 </ul>
-<a href='https://xmpp.net/result.php?domain=kode.im&amp;type=server' target="_blank"><img src='https://xmpp.net/badge.php?domain=kode.im' alt='xmpp.net score' /></a><br>
-
+<img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
+<br>
 <h1>Connection</h1>
 <ul>
 	<li><strong>Server</strong> kode.im </li>
@@ -63,16 +63,16 @@ echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
 
 <h1>Policies</h1>
    <p><strong><i>Privacy</i></strong> No more information is collected and stored than what is absolutely necessary. This includes rosters, vCards, offline messages, etc.</p>
-   <p><strong><i>Spam</i></strong> Spam and abuse including advertisements of any kind will not be tolerated on this network. For spam or abuse please contact us with the full details. 
+   <p><strong><i>Spam</i></strong> Spam and abuse including advertisements of any kind will not be tolerated on this network. For spam or abuse please email abuse@kode.email with the full details. This <a href="keys/abuse/109F92DA">public key</a> can be used for secure communication.
 
 <h1>Contact</h1>
 <p><strong>j</strong> staff@kode.im </p>
-<p><strong>e</strong> contact@kode.email | <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x77491C017F300F7C" target="_blank">7F300F7C</a> </p>
+<p><strong>e</strong> contact@kode.email | <a href="keys/contact/7F300F7C">7F300F7C</a> </p>
 
 </div></div></div><br><br>
 
 <footer id="footer"> 
-kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://kode.im/images/copyleft.png" alt="Copyleft" />
+kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://www.kode.im/images/copyleft.png" alt="Copyleft" />
 </footer>
 
 <!-- Piwik -->
