@@ -54,8 +54,8 @@ a {
         transition:.5s;
 }
 
+a { color: #2983FF; }
 a.visited { color: black; }
-a { border-bottom: 1px black dotted; }
 a:hover { color: #7FB4FD; }
 
 footer {

@@ -71,8 +71,11 @@ echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
 
 </div></div></div><br><br>
 
-<footer id="footer"> 
-kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://www.kode.im/images/copyleft.png" alt="Copyleft" />
+<footer id="footer">
+<a href="https://status.koderoot.net">
+<img src="https://media.koderoot.net/images/statuspage.png" height="45" width="45" title="KodeNet Status Page" alt="Status Page"/>
+</a>
+&nbsp; kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://www.kode.im/images/copyleft.png" alt="Copyleft" />
 </footer>
 
 <!-- Piwik -->
