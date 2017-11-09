@@ -4,6 +4,9 @@
 <meta charset="utf-8"> 
 <meta name="description" content="Kode.IM - part of the KodeNet XMPP network serving Jabber accounts @kode.im">
 <meta name="keywords" content="kode.im, kodenet jabber, kode.im xmpp, kode jabber, kode xmpp, jabber chat, jabber accounts, jabber registration">
+<meta property="og:title" content="Kode.IM" />
+<meta property="og:description" content="The Kode.IM XMPP/Jabber network" />
+<meta property="og:image" content="https://kode.im/images/kodenet-logo.png" />
 
 <title>Kode.IM | XMPP </title>
 
@@ -35,14 +38,7 @@
    <li><s>Currently beta as of June 27, 2015</s></li>
    <li><s>Pending SSL certificate for kode.im domain</s></li>
 <!-- <li> <a href="https://munin.koderoot.net/kodenet/kodenet/index.html#prosody">XMPP stats</a> powered by Munin </li> -->
-   <li><strong>SHA1 Fingerprint</strong> 34:57:23:8F:2B:20:21:72:26:A9:FB:B9:D1:0B:C9:16:1B:A7:96:4D</li>
-   <li id="uptime"><strong>Server Uptime</strong>
-<?php include "/srv/http/kodenet/uptime/upstat.php";  ?>
-<?php
-$ut = linuxUptimez();
-#echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm, $ut[3]$uts";
-echo "$ut[0]$utd, $ut[1]$uth, $ut[2]$utm";
-?></li>
+   <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
 </ul>
 <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
 <br>
