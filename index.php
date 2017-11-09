@@ -41,7 +41,7 @@
    <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
 </ul>
 <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
-<br>
+
 <h1>Connection</h1>
 <ul>
 	<li><strong>Server</strong> kode.im </li>
