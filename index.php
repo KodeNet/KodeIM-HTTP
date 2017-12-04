@@ -41,6 +41,9 @@
    <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
 </ul>
 <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
+<a href='https://check.messaging.one/result.php?domain=kode.im&amp;type=server'>
+  <img src='https://check.messaging.one/badge.php?domain=kode.im' alt='IM observatory score' />
+</a><br
 
 <h1>Connection</h1>
 <ul>
