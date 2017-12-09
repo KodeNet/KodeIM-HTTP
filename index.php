@@ -30,6 +30,7 @@
    <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network running <a href="http://www.prosody.im" target="_blank">Prosody</a> with support for MUC (Multi-User Chat), Groups, Privacy Lists, Offline Storage, vCards, Compression, File Transfer capabilities and <a href="https://www.koderoot.net/docs/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
  
  <h1>Registration</h1>
+   <p> <a href="https://im.koderoot.net/register-on-kode.im">Web Registration</a> </p>
    <p>In-band registration using a supported IM client (i.e. <a href="https://pidgin.im/" target="_blank">Pidgin</a>, <a href="https://adium.im/" target="_blank">Adium</a>)</p>
 
    <h1>Status</h1>
