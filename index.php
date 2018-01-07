@@ -4,9 +4,9 @@
 <meta charset="utf-8"> 
 <meta name="description" content="Kode.IM - part of the KodeNet XMPP network serving Jabber accounts @kode.im">
 <meta name="keywords" content="kode.im, kodenet jabber, kode.im xmpp, kode jabber, kode xmpp, jabber chat, jabber accounts, jabber registration">
-<meta property="og:title" content="Kode.IM" />
-<meta property="og:description" content="The Kode.IM XMPP/Jabber network" />
-<meta property="og:image" content="https://kode.im/images/kodenet-logo.png" />
+<meta property="og:title" content="Kode.IM | XMPP" />
+<meta property="og:description" content="Kode.IM XMPP/Jabber network" />
+<meta property='og:image' content='http://dev.kode.im/index/images/kodenet-logo.png'/>
 
 <title>Kode.IM | XMPP </title>
 
@@ -27,7 +27,7 @@
 <div id="superstructure">
   <div id="content">
    <h1>About Kode IM</h1>
-   <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network running <a href="http://www.prosody.im" target="_blank">Prosody</a> with support for MUC (Multi-User Chat), Groups, Privacy Lists, Offline Storage, vCards, Compression, File Transfer capabilities and <a href="https://www.koderoot.net/docs/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
+   <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network with support for Cloud Push Notifications, Blocking, File Transfers, HTTP File Uploads, Invite URLs, Message Archive Management, Multi-User Chat, Offline Storage, vCards with Avatars and <a href="https://www.koderoot.net/docs/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
  
  <h1>Registration</h1>
    <p> <a href="https://im.koderoot.net/register-on-kode.im">Web Registration</a> </p>
@@ -59,7 +59,11 @@
    <li> SSL/TLS encryption is <a href="https://github.com/stpeter/manifesto/blob/master/manifesto.txt" target="_blank">required</a> between clients and servers (C2S) and server to server (S2S) connections </li>
    <li> The backend is configured to store <a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" target="_blank">hashed</a> and <a href="https://en.wikipedia.org/wiki/Salt_(cryptography)" target="_blank">salted</a> authentication data </li>
    <li> Use <a href="https://otr.cypherpunks.ca" target="_blank">Off-the-Record (OTR)</a> in your chat client to have fully encrypted chats   </li>
-</ul>
+</ul> 
+
+<a href="https://conversations.im/omemo/" target="_blank"><img src="https://media.koderoot.net/images/omemo_logo.png" title="OMEMO Encryption Ready" width="100" height="62" /><img src="images/check-mark-green.png" alt="Green Check" /></a>
+
+<br><br><br>
 
 <h1>Policies</h1>
    <p><strong><i>Privacy</i></strong> No more information is collected and stored than what is absolutely necessary. This includes rosters, vCards, offline messages, etc.</p>
@@ -71,14 +75,14 @@
 
 </div></div></div><br><br>
 
-<footer id="footer">
+<footer id="footer"> 
 <a href="https://status.koderoot.net">
 <img src="https://media.koderoot.net/images/statuspage.png" height="45" width="45" title="KodeNet Status Page" alt="Status Page"/>
-</a>
+</a> 
 &nbsp; kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://www.kode.im/images/copyleft.png" alt="Copyleft" />
 </footer>
 
-<!-- Piwik -->
+<!-- Piwik respects your privacy -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.kode.im"]]);
