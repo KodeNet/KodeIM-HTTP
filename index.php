@@ -6,18 +6,12 @@
 <meta name="keywords" content="kode.im, kodenet jabber, kode.im xmpp, kode jabber, kode xmpp, jabber chat, jabber accounts, jabber registration">
 <meta property="og:title" content="Kode.IM | XMPP" />
 <meta property="og:description" content="Kode.IM XMPP/Jabber network" />
-<meta property='og:image' content='http://dev.kode.im/index/images/kodenet-logo.png'/>
+<meta property='og:image' content='images/kodenet-logo.png'/>
 
 <title>Kode.IM | XMPP </title>
 
 <link rel="icon" href="https://kode.im/favicon.ico?v=2"/>
 <link rel="stylesheet" href="css/style.css"/>
-
-<!-- Converse -->
-<link type="text/css" rel="stylesheet" media="screen" href="/converse/components/fontawesome/css/font-awesome.min.css" />
-<link type="text/css" rel="stylesheet" media="screen" href="/converse/css/converse.css" />
-<script src="/converse/dist/converse.js"></script>
-<!-- Converse -->
 
 </head>
 <body> 
@@ -103,6 +97,10 @@
 <img src="https://stats.koderoot.net/piwik.php?idsite=6&rec=1" style="border:0" alt="" />
 <!-- End Piwik -->
 
-<script src="converse/mainchat.js"></script>
+<div id="chat">
+<a href="chat">
+<img src="images/chat-icon.png" height="100" width="100" title="Chat" alt="Jabber Chat Client"/></a>
+</div>
+
 </body>
 </html>

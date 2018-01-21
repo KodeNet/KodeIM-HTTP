@@ -66,3 +66,10 @@ footer {
 	font-size: 90%;
 	text-align: right;
 }
+
+#chat {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 1% 1%
+}
