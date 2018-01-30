@@ -4,8 +4,8 @@
 <meta charset="utf-8"> 
 <meta name="description" content="Kode.IM - part of the KodeNet XMPP network serving Jabber accounts @kode.im">
 <meta name="keywords" content="kode.im, kodenet jabber, kode.im xmpp, kode jabber, kode xmpp, jabber chat, jabber accounts, jabber registration">
-<meta property="og:title" content="Kode.IM | XMPP" />
-<meta property="og:description" content="Kode.IM XMPP/Jabber network" />
+<meta property="og:title" content="Kode.IM | Chat" />
+<meta property="og:description" content="Kode.IM - an XMPP/Jabber Web Chat Client" />
 <meta property='og:image' content='images/kodenet-logo.png'/>
 
 <title>Kode.IM | Chat </title>
