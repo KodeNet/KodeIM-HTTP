@@ -21,7 +21,7 @@
 <div id="superstructure">
   <div id="content">
    <h1>About Kode IM</h1>
-   <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network with support for Cloud Push Notifications, Blocking, File Transfers, HTTP File Uploads, Invite URLs, Message Archive Management, Multi-User Chat, Offline Storage, vCards with Avatars and <a href="https://www.koderoot.net/docs/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
+   <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network with support for Cloud Push Notifications, Blocking, File Transfers, HTTP File Uploads, Invite URLs, Message Archive Management, Multi-User Chat, Offline Storage, vCards with Avatars and <a href="https://docs.koderoot.net/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
  
  <h1>Registration</h1>
    <p> <a href="https://im.koderoot.net/register-on-kode.im">Web Registration</a> </p>
