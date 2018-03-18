@@ -24,18 +24,23 @@
    <p>Welcome to Kode IM! a public <a href="http://en.wikipedia.org/wiki/XMPP" target="_blank">XMPP Server</a> part of the <a href="https://www.koderoot.net/" target="_blank">KodeNet</a> XMPP network with support for Cloud Push Notifications, Blocking, File Transfers, HTTP File Uploads, Invite URLs, Message Archive Management, Multi-User Chat, Offline Storage, vCards with Avatars and <a href="https://docs.koderoot.net/xep/modules" target="_blank">more</a>. This XMPP server is hosted in Fremont, California - an innovative city in Silicon Valley.</p>
  
  <h1>Registration</h1>
-   <p> <a href="https://im.koderoot.net/register-on-kode.im">Web Registration</a> </p>
-   <p>In-band registration using a supported IM client (i.e. <a href="https://pidgin.im/" target="_blank">Pidgin</a>, <a href="https://adium.im/" target="_blank">Adium</a>)</p>
+    <p> <a href="https://im.koderoot.net/register-on-kode.im">Web Registration</a> </p>
+    <p>In-band registration using a supported IM client</p>
+<ul>
+<li><strong>desktop:</strong> <a href="https://pidgin.im/" target="_blank">Pidgin</a>, <a href="https://adium.im/" target="_blank">Adium</a> </li>
+<li><strong>mobile:</strong> <a href="https://conversations.im/" target="_blank">Conversations</a>, <a href="https://chatsecure.org/" target="_blank">ChatSecure</a></li>
+</ul>
 
    <h1>Status</h1>
 <ul>
-   <li><mark>Out of beta as of December 04, 2015</mark></li>
-   <li><s>Currently beta as of June 27, 2015</s></li>
-   <li><s>Pending SSL certificate for kode.im domain</s></li>
+   <li><mark>Beta Ends: December 04, 2015</mark></li>
+   <li><s>Beta Begins: June 27, 2015</s></li>
+   <li><s>Pending TLS certificate for kode.im domain</s></li>
 <!-- <li> <a href="https://munin.koderoot.net/kodenet/kodenet/index.html#prosody">XMPP stats</a> powered by Munin </li> -->
    <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
 </ul>
-<img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
+<!-- <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br> -->
+<a href='https://xmpp.net/result.php?domain=im.koderoot.net&amp;type=client'><img src='https://xmpp.net/badge.php?domain=im.koderoot.net' alt='xmpp.net score' /></a> <br>
 <a href='https://check.messaging.one/result.php?domain=kode.im&amp;type=server'>
   <img src='https://check.messaging.one/badge.php?domain=kode.im' alt='IM observatory score' />
 </a><br>
@@ -43,7 +48,7 @@
 <h1>Connection</h1>
 <ul>
 	<li><strong>Server</strong> kode.im </li>
-      	<li><strong>MUC</strong> muc.kode.im </li>
+  <li><strong>MUC</strong> muc.kode.im </li>
 	<li><strong>Tor</strong> ihkw7qy3tok45dun.onion </li>
 	<li><strong>Proxy</strong> proxy.kode.im </li>
 </ul>
