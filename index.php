@@ -41,9 +41,6 @@
 </ul>
 <!-- <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br> -->
 <a href='https://xmpp.net/result.php?domain=kode.im&amp;type=client'><img src='https://xmpp.net/badge.php?domain=kode.im' alt='xmpp.net score' /></a> <br>
-<a href='https://check.messaging.one/result.php?domain=kode.im&amp;type=server'>
-  <img src='https://check.messaging.one/badge.php?domain=kode.im' alt='IM observatory score' />
-</a><br>
 
 <h1>Connection</h1>
 <ul>
