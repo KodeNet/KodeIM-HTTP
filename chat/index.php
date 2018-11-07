@@ -13,8 +13,10 @@
 <link rel="icon" href="https://kode.im/favicon.ico?v=2"/>
 
 <!-- Converse -->
-<link type="text/css" rel="stylesheet" media="screen" href="converse/css/inverse.css" />
-<script src="converse/dist/inverse.min.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="converse/css/fullpage.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="converse/css/converse.min.css" />
+<script src="converse/3rdparty/libsignal-protocol.min.js"></script>
+<script src="converse/dist/converse.min.js"></script>
 <!-- Converse -->
 
 </head>
