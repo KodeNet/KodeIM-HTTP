@@ -37,7 +37,7 @@
    <li><s>Beta Begins: June 27, 2015</s></li>
    <li><s>Pending TLS certificate for kode.im domain</s></li>
 <!-- <li> <a href="https://munin.koderoot.net/kodenet/kodenet/index.html#prosody">XMPP stats</a> powered by Munin </li> -->
-   <li><strong>SHA1 Fingerprint</strong> FA:BC:C3:DD:BF:D9:BF:AE:97:40:A7:BB:40:5F:59:F8:69:06:51:64</li>
+   <li><strong>SHA1 Fingerprint</strong> 42:66:54:A5:DE:FE:E1:F1:A7:A0:C5:E0:8A:B9:6E:FC:2B:56:AE:EB </li>
 </ul>
 <!-- <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br> -->
 <a href='https://xmpp.net/result.php?domain=kode.im&amp;type=client'><img src='https://xmpp.net/badge.php?domain=kode.im' alt='xmpp.net score' /></a> <br>
