@@ -39,8 +39,7 @@
 <!-- <li> <a href="https://munin.koderoot.net/kodenet/kodenet/index.html#prosody">XMPP stats</a> powered by Munin </li> -->
    <li><strong>SHA1 Fingerprint</strong> <?php $fingerprint = str_replace(system('openssl x509 -noout -in /etc/letsencrypt/live/kode.im/cert.pem -fingerprint | cut -d= -f2-')); ?> </li>
 </ul>
-<!-- <img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br> -->
-<a href='https://xmpp.net/result.php?domain=kode.im&amp;type=client'><img src='https://xmpp.net/badge.php?domain=kode.im' alt='xmpp.net score' /></a> <br>
+<img src='https://media.koderoot.net/images/badge_jabber_at.svg' alt='xmpp.net score' /><br>
 
 <h1>Connection</h1>
 <ul>
@@ -78,26 +77,26 @@
 &nbsp; kode.im 2015-<?php echo date("Y") ?>&nbsp; &bullet; &nbsp; <img src="https://www.kode.im/images/copyleft.png" alt="Copyleft" />
 </footer>
 
-<!-- Piwik respects your privacy -->
+<!-- Matomo respects your privacy -->
 <script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDomains", ["*.kode.im"]]);
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.kode.im"]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-    var u="//stats.koderoot.net/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 6]);
+    var u="https://stats.koderoot.net/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '6']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
   })();
 </script>
-<noscript><p><img src="//stats.koderoot.net/piwik.php?idsite=6" style="border:0;" alt="" /></p></noscript>
-<!-- End Piwik Code -->
+<!-- End Matomo Code -->
 
-<!-- Piwik Image Tracker-->
-<img src="https://stats.koderoot.net/piwik.php?idsite=6&rec=1" style="border:0" alt="" />
-<!-- End Piwik -->
+<!-- Matomo Image Tracker-->
+<img src="https://stats.koderoot.net/matomo.php?idsite=6&amp;rec=1" style="border:0" alt="" />
+<!-- End Matomo -->
 
 <div id="chat">
 <a href="chat">
