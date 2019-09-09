@@ -62,11 +62,11 @@
 
 <h1>Policies</h1>
    <p><strong><i>Privacy</i></strong> No more information is collected and stored than what is absolutely necessary. This includes rosters, vCards, offline messages, etc.</p>
-   <p><strong><i>Spam</i></strong> Spam and abuse including advertisements of any kind will not be tolerated on this network. For spam or abuse please email abuse@kode.email with the full details. This <a href="keys/abuse/109F92DA">public key</a> can be used for secure communication.
+   <p><strong><i>Spam</i></strong> Spam and abuse including advertisements of any kind will not be tolerated on this network. For spam or abuse please email abuse@kode.email with the full details. Importing this <a href="https://keys.kode.email/pks/lookup?op=get&search=abuse%40kode.email">public key</a> can be used for secure communication.
 
 <h1>Contact</h1>
 <p><strong>j</strong> staff@kode.im </p>
-<p><strong>e</strong> contact@kode.email | <a href="keys/contact/7F300F7C">7F300F7C</a> </p>
+<p><strong>e</strong> contact@kode.email | <a href="https://keys.kode.email/pks/lookup?op=get&search=contact%40kode.email">7F300F7C</a> </p>
 
 </div></div></div><br><br>
 
